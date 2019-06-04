@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FADD23E1-5D3F-109E-6364-C62117560A6B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Placenote/Editor/PostBuildTrigger.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@1.0.0-preview.22/Runtime/AR/ARSessionOrigin.cs" Line="3" Column="1" />
+      <File FileName="Assets/Placenote/Editor/PostBuildTrigger.cs" Line="7" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
